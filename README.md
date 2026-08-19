@@ -2,13 +2,13 @@
 
 Solving Codeforces problems every day to build a strong streak!
 
-![Problems Solved](https://img.shields.io/badge/Problems%20Solved-36-brightgreen)
+![Problems Solved](https://img.shields.io/badge/Problems%20Solved-41-brightgreen)
 ![Language](https://img.shields.io/badge/Language-Java-orange)
 ![Platform](https://img.shields.io/badge/Platform-Codeforces-blue)
 
 ---
 
-## ✅ Problems Solved (36)
+## ✅ Problems Solved (41)
 
 | # | Problem Name | Level |
 |---|-------------|-------|
@@ -48,6 +48,11 @@ Solving Codeforces problems every day to build a strong streak!
 | 34 | AGames | A |
 | 35 | AYesOrYes | A |
 | 36 | APoliceRecruits | A |
+| 37 | ASoftDrinking | A |
+| 38 | ATwoScreens | A |
+| 39 | BBrokenKeyboard | B |
+| 40 | CQueueAtTheSchool | C |
+| 41 | DBlackAndWhiteStripe | D |
 
 ---
 
