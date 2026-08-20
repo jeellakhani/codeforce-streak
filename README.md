@@ -2,13 +2,13 @@
 
 Solving Codeforces problems every day to build a strong streak!
 
-![Problems Solved](https://img.shields.io/badge/Problems%20Solved-41-brightgreen)
+![Problems Solved](https://img.shields.io/badge/Problems%20Solved-43-brightgreen)
 ![Language](https://img.shields.io/badge/Language-Java-orange)
 ![Platform](https://img.shields.io/badge/Platform-Codeforces-blue)
 
 ---
 
-## ✅ Problems Solved (41)
+## ✅ Problems Solved (43)
 
 | # | Problem Name | Level |
 |---|-------------|-------|
@@ -53,6 +53,8 @@ Solving Codeforces problems every day to build a strong streak!
 | 39 | BBrokenKeyboard | B |
 | 40 | CQueueAtTheSchool | C |
 | 41 | DBlackAndWhiteStripe | D |
+| 42 | AAgainTwentyFive | A |
+| 43 | AILoveUsername | A |
 
 ---
 
