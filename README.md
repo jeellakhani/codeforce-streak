@@ -2,13 +2,13 @@
 
 Solving Codeforces problems every day to build a strong streak!
 
-![Problems Solved](https://img.shields.io/badge/Problems%20Solved-44-brightgreen)
+![Problems Solved](https://img.shields.io/badge/Problems%20Solved-46-brightgreen)
 ![Language](https://img.shields.io/badge/Language-Java-orange)
 ![Platform](https://img.shields.io/badge/Platform-Codeforces-blue)
 
 ---
 
-## ✅ Problems Solved (44)
+## ✅ Problems Solved (46)
 
 | # | Problem Name | Level |
 |---|-------------|-------|
@@ -56,6 +56,8 @@ Solving Codeforces problems every day to build a strong streak!
 | 42 | AAgainTwentyFive | A |
 | 43 | AILoveUsername | A |
 | 44 | ANewYearAndHurry | A |
+| 45 | ADivision | A |
+| 46 | ASerejaAndDima | A |
 
 ---
 
