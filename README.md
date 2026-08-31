@@ -2,13 +2,13 @@
 
 Solving Codeforces problems every day to build a strong streak!
 
-![Problems Solved](https://img.shields.io/badge/Problems%20Solved-53-brightgreen)
+![Problems Solved](https://img.shields.io/badge/Problems%20Solved-54-brightgreen)
 ![Language](https://img.shields.io/badge/Language-Java-orange)
 ![Platform](https://img.shields.io/badge/Platform-Codeforces-blue)
 
 ---
 
-## ✅ Problems Solved (53)
+## ✅ Problems Solved (54)
 
 | # | Problem Name | Level |
 |---|-------------|-------|
@@ -65,6 +65,7 @@ Solving Codeforces problems every day to build a strong streak!
 | 51 | APlusOrMinus | A |
 | 52 | ARestoringThreeNumbers | A |
 | 53 | ATheNewYearMeetingFriends | A |
+| 54 | AABAgain | A |
 
 ---
 
